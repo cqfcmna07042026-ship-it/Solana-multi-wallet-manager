@@ -51,7 +51,7 @@ The AI agent calls the appropriate tool automatically — no command memorizatio
    {
      "mcpServers": {
        "solana": {
-         "command": "C:/Users/Users/AppData/Local/Programs/Python/Python310/python.exe",
+         "command": "C:/Users/*YOUR PROFILE NAME*/AppData/Local/Programs/Python/Python310/python.exe",
          "args": ["C:/bots/Solana wallets creator/solana_mcp.py"]
        }
      }
